@@ -40,3 +40,10 @@
 .button-primary{
   align-items: center;
 }
+
+.fadebox-container {
+width: 300px;
+position: absolute;
+z-index: -10;
+}
+
